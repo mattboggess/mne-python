@@ -36,6 +36,7 @@ from .cnt import read_raw_cnt
 from .ctf import read_raw_ctf
 from .edf import read_raw_edf
 from .egi import read_raw_egi
+from .egi import read_mff_egi
 from .kit import read_raw_kit, read_epochs_kit
 from .fiff import read_raw_fif
 from .nicolet import read_raw_nicolet
